@@ -1,5 +1,7 @@
 export default function Home() {
   return (
-    <main></main>
+    <main className="h-screen">
+      <h1>Demo Site</h1>
+    </main>
   )
 }
